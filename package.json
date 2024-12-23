@@ -1,0 +1,8 @@
+{
+    "name": "npm-express-test",
+    "version": "1.0.0",
+    "dependencies": {
+        "cookie":"0.6.0"
+        
+    }
+}
